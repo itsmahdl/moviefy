@@ -1,6 +1,6 @@
-# moviefy
+# Moviefy
 
-A new Flutter project.
+A Simple Movie App.
 
 ## Getting Started
 
